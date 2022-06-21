@@ -1,0 +1,2 @@
+Hi {0},%0D%0A
+I am Ms Tay, your lecturer for Python class. To prepare yourself for the start of the semester, do install the software indicated in the email. If you face any IT issue, do contact the IT helpdesk ASAP.
